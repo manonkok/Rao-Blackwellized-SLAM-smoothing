@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "This code implements the methods in this original publication."
+authors:
+  - family-names: "Kok"
+    given-names: "Manon"
+    orcid: "https://orcid.org/0000-0002-2441-2240"
+  - family-names: "Solin"
+    given-names: "Arno"
+    orcid: "https://orcid.org/0000-0002-0958-7886"
+  - family-names: "Schön"
+    given-names: "Thomas B."
+    orcid: "https://orcid.org/0000-0001-5183-234X"
+title: "Iterative Smoothing Bridge"
+date-released: 2024-01-18
+url: "https://github.com/manonkok/Rao-Blackwellized-SLAM-smoothing"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Kok"
+    given-names: "Manon"
+    orcid: "https://orcid.org/0000-0002-2441-2240"
+  - family-names: "Solin"
+    given-names: "Arno"
+    orcid: "https://orcid.org/0000-0002-0958-7886"
+  - family-names: "Schön"
+    given-names: "Thomas B."
+    orcid: "https://orcid.org/0000-0001-5183-234X"
+  journal: "arXiv pre-print: arXiv:2306.03953"
+  title: "Rao-Blackwellized Particle Smoothing for Simultaneous Localization and Mapping"
