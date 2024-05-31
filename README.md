@@ -2,7 +2,7 @@
 
 This repository is the official implementation of the methods in the publication:
 
-* Manon Kok, Arno Solin, and Thomas B. Schön. **Rao-Blackwellized particle smoothing for simultaneous localization and mapping**. Available as an [arXiv pre-print](https://arxiv.org/abs/2306.03953).
+* Manon Kok, Arno Solin, and Thomas B. Schön (2024). **Rao-Blackwellized particle smoothing for simultaneous localization and mapping**. *Data-Centric Engineering*, 5, e15. doi: [10.1017/dce.2024.12](https://doi.org/10.1017/dce.2024.12).  Also available as an [arXiv pre-print](https://arxiv.org/abs/2306.03953).
 
 Additionally, the repository also provides code for methods presented in the following previous publications that consider magnetic field mapping, terrain navigation using the magnetic field map, and particle filtering–based SLAM in the magnetic field: 
 
