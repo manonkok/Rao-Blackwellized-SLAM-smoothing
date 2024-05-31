@@ -10,7 +10,7 @@ authors:
   - family-names: "Schön"
     given-names: "Thomas B."
     orcid: "https://orcid.org/0000-0001-5183-234X"
-title: "Iterative Smoothing Bridge"
+title: "Rao-Blackwellized Particle Smoothing for Simultaneous Localization and Mapping"
 date-released: 2024-01-18
 url: "https://github.com/manonkok/Rao-Blackwellized-SLAM-smoothing"
 preferred-citation:
@@ -25,5 +25,8 @@ preferred-citation:
   - family-names: "Schön"
     given-names: "Thomas B."
     orcid: "https://orcid.org/0000-0001-5183-234X"
-  journal: "arXiv pre-print: arXiv:2306.03953"
+  journal: "Data-Centric Engineering"
+  volume: 5
+  year: 2024
   title: "Rao-Blackwellized Particle Smoothing for Simultaneous Localization and Mapping"
+  doi: 10.1017/dce.2024.12
